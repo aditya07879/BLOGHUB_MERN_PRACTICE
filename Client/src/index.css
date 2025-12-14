@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Outfit:wght@100..900&family=Rubik+Wet+Paint&display=swap');
+@import "tailwindcss";
+
+* {
+  font-family:  "Boldonse", system-ui;
+}
+
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+@theme {
+  --color-primary: #44E0E5;
+}
