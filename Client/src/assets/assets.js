@@ -12,6 +12,7 @@ import facebook_icon from './facebook_icon.svg'
 import googleplus_icon from './googleplus_icon.svg'
 import twitter_icon from './twitter_icon.svg'
 import logo from './logo.svg'
+import logo1 from './logo1.svg'
 import arrow from './arrow.svg'
 import logo_light from './logo_light.svg'
 import blog_icon from './blog_icon.png'
@@ -37,6 +38,7 @@ export const assets = {
     facebook_icon,
     googleplus_icon,
     twitter_icon,
+    logo1,
     logo,
     arrow,
     logo_light,

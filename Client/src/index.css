@@ -1,8 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600;700&family=Poppins:wght@600;700&display=swap');
+
 @import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Outfit:wght@100..900&family=Rubik+Wet+Paint&display=swap');
 @import "tailwindcss";
 
 * {
   font-family:  "Boldonse", system-ui;
+}
+
+.logo {
+  font-family: 'Inter', sans-serif;
 }
 
 
